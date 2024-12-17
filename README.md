@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajukumardeo
+- 👋 Hi, I’m @Rajukumar
 - 👀 I’m interested in Embedded coding
 - 🌱 I’m currently learning iot
 - 💞️ I’m looking to collaborate on ...
